@@ -36,5 +36,6 @@ The analysis provided several actionable insights for the gym’s management:
 2.	Gender distribution insights can guide program development, ensuring a welcoming and relevant experience for all members.
 3.	Workout preference data helps identify the most popular and underutilized programs, enabling management to allocate resources effectively or introduce promotional strategies for less popular workouts.
 4.	Attendance trends highlight peak usage times, offering operational insights for staffing and facility management to ensure a smooth and efficient member experience during busy hours.
+
 In summary, this EDA sheds light on crucial demographic patterns, member preferences, and operational opportunities. By leveraging these insights, the gym can better meet member needs, improve satisfaction, and ultimately enhance retention.
 
